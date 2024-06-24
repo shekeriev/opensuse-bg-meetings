@@ -3,11 +3,11 @@
 In general, before attempting an OS upgrade, you should pay attention to some or all the items in the following list:
 
 - it is always a good idea to make a backup at least of your data and why not of the system itself;
-- execute the procedure while not in graphical mode. If your system is running a GUI, either switch to ... or at least switch to a virtual console (for example, with ***Ctrl+Alt+F1***)
+- execute the procedure while not in graphical mode. If your system is running a GUI, either switch to text mode (***multiuser.target*** or ***runlevel3.target***) or at least switch to a virtual console (for example, with ***Ctrl+Alt+F1***)
 - decide what to do with any additional repositories that you may have registered. If they use a separate URL for the target OS version, switch to it. You can always leave them as they are and decide on package by package basis, if needed;
 - it is always better to do a sequential upgrade compared to skipping versions;
 
-*Please note that*
+*Please note that the following instructions are more or less generic and should be adjusted to match your situation/case. It is advisable to try them in a virtual lab environment first to understand better what is involved and going on.*
 
 ## Upgrade from Leap 15.5 to Leap 15.6
 
