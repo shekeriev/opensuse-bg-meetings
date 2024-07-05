@@ -2,7 +2,7 @@
 
 Materials from the meeting held on 2024.06.24
 
-YouTube video: *to-be-published*
+YouTube video: [https://youtu.be/Ow8fPiuN7aU](https://youtu.be/Ow8fPiuN7aU)
 
 Slides: [slides.pdf](slides.pdf)
 
